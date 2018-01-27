@@ -1,7 +1,9 @@
 # MyPortfolio-WEB
 
 ini adalah projek pertama saya tentang web untuk membuat sebuah portfolio dengan HTML + CSS (BOOTSTRAP) + JQUERY
-projek ini juga berbekal video tutorial di youtube yang dibuat oleh pak Sandhika Galih, dosen IT di UNPAS
+projek ini juga berbekal video tutorial di youtube yang dibuat oleh pak Sandhika Galih, dosen IT di UNPAS 
+
+bisa check di index.html 
 
 semoga dapat membantu ^^ 
 -Developer newbie-
